@@ -13,9 +13,9 @@
 }
 
 .text-gradient {
-    background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #a78bfa), color-stop(0.5, #ec4899),  color-stop(0.45, #ef4444) );
-        -webkit-text-fill-color: transparent;
-        -webkit-background-clip: text;
+        background: linear-gradient(to right, #ec54a0 0%, #ef4444 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
 
 html {

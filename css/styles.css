@@ -11,3 +11,13 @@
 .work {
     font-family: 'Work Sans', sans-serif;
 }
+
+.text-gradient {
+    background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #a78bfa), color-stop(0.5, #ec4899),  color-stop(0.45, #ef4444) );
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+}
+
+html {
+    scroll-behavior: smooth;
+}

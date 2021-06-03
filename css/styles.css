@@ -19,6 +19,8 @@ html {
     scroll-behavior: smooth;
 }
 
-.no-webkit {
+.no-appearance {
     -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
 }

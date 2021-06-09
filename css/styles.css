@@ -11,7 +11,7 @@
     font-family: 'Work Sans', sans-serif;
 }
 .text-gradient {
-        background: linear-gradient(to right, #ec54a0 0%, #ef4444 100%);
+    background: linear-gradient(to right, #ec54a0 0%, #ef4444 100%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
